@@ -1,11 +1,30 @@
-- 👋 Hi, I’m Tai Thanh-Le (You can call me simply using my English name: Johnny)
-- 👀 I’m interested in Artificial Intelligence, especially computer vision.
-- 🌱 I’m currently majoring in Embedded System and Internet of Things at Ho Chi Minh City Univercity of Technology and Education
-- 💞️ I’m looking to collaborate on open-source projects in the field of AI
-- 📫 How to reach me: **[taifa2907@gmail.com](mailto:taifa2907@gmail.com)** or connect with me on [Linkedin](https://www.linkedin.com/in/l%C3%AA-th%C3%A0nh-t%C3%A0i-519a1828b/).
-- ⚡ Fun fact: I love swimming and skateboarding.
+# Hi there, I'm Tai Thanh-Le (You can call me Johnny) 👋
 
-<!---
-JohnnysGithubAccount/JohnnysGithubAccount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an AI Engineer with a keen interest in Artificial Intelligence, particularly in the field of computer vision. My passion lies in harnessing technology to solve real-world challenges and create impactful solutions.
+
+## 🎓 Education
+I’m currently majoring in Embedded Systems and the Internet of Things at Ho Chi Minh City University of Technology and Education.
+
+## 🔧 Skills & Technologies
+- **Programming Languages:** Python, C/C++, JavaScript
+- **Machine Learning Frameworks:** TensorFlow, OpenCV, Scikit-learn, PyTorch
+- **Embedded Systems:** ESP32, Raspberry Pi, 8051-89c52
+- **Data Analysis Tools:** Pandas, NumPy, Matplotlib
+- **Other Technologies:** Git, AWS, Mlflow, Docker, Flutter
+
+## 🌟 Highlights
+- **Advanced Driver-Assistance System**: Developed a system integrating computer vision techniques to enhance vehicle safety and navigation.
+- **Color-buried Coffee Cans Detection and Segmentation using PatchCore Model**: Implemented a model to detect and segment marker colorbur from coffee cans.
+- **Image Generation using Deep Convolutional GAN**: Created a generative model to produce realistic images based on training data.
+
+## 💞 Collaboration
+I’m looking to collaborate on open-source projects in the field of AI. If you have an exciting idea or project, feel free to reach out!
+
+## 📫 Connect with Me
+- Email: **[taifa2907@gmail.com](mailto:taifa2907@gmail.com)**
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/l%C3%AA-th%C3%A0nh-t%C3%A0i-519a1828b/)
+
+## ⚡ Fun Fact
+I love swimming and skateboarding!
+
+I’m always open to discussing new projects, ideas, or opportunities. Let’s connect!
