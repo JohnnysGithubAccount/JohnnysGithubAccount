@@ -6,11 +6,11 @@ I’m an AI Engineer with a keen interest in Artificial Intelligence, particular
 I’m currently majoring in Embedded Systems and the Internet of Things at Ho Chi Minh City University of Technology and Education.
 
 ## 🔧 Skills & Technologies
-- **Programming Languages:** Python, C/C++, JavaScript
+- **Programming Languages:** Python, C/C++, JavaScript, C# 
 - **Machine Learning Frameworks:** TensorFlow, OpenCV, Scikit-learn, PyTorch
 - **Embedded Systems:** ESP32, Raspberry Pi, 8051-89c52
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib
-- **Other Technologies:** Git, AWS, Mlflow, Docker, Flutter
+- **Other Technologies:** Git, AWS, Mlflow, Docker, Flutter, Unity, Blender
 
 ## 🌟 Highlights
 - **Advanced Driver-Assistance System**: Developed a system integrating computer vision techniques to enhance vehicle safety and navigation.
