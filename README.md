@@ -10,7 +10,8 @@ I’m currently majoring in Embedded Systems and the Internet of Things at Ho Ch
 - **Machine Learning Frameworks:** TensorFlow, OpenCV, Scikit-learn, PyTorch
 - **Embedded Systems:** ESP32, Raspberry Pi, 8051-89c52
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib
-- **Other Technologies:** Git, AWS, Mlflow, Docker, Flutter, Unity, Blender
+- **AI Deployment Tools:** Mlflow, AWS
+- **Other Technologies:** Git, Docker, Flutter, Unity, Blender
 
 ## 🌟 Highlights
 - **Advanced Driver-Assistance System**: Developed a system integrating computer vision techniques to enhance vehicle safety and navigation.
