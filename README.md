@@ -4,7 +4,8 @@ I’m an AI Engineer with a keen interest in Artificial Intelligence, particular
 
 ## 🎓 Education
 I’m currently majoring in Embedded Systems and the Internet of Things at Ho Chi Minh City University of Technology and Education.
-Currently finished credits: 3.3/4.0
+Currently finished credits: 127/150
+Current GPA: 3.3/4.0
 
 ## 🔧 Skills & Technologies
 - **Programming Languages:** Python, C/C++, JavaScript, C# 
