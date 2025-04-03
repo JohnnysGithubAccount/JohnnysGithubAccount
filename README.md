@@ -27,7 +27,8 @@ I’m looking to collaborate on open-source projects in the field of AI. If you 
 
 ## 📫 Connect with Me
 - Email: **[taifa2907@gmail.com](mailto:taifa2907@gmail.com)**
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/l%C3%AA-th%C3%A0nh-t%C3%A0i-519a1828b/)
+- LinkedIn: **[Connect with me](https://www.linkedin.com/in/l%C3%AA-th%C3%A0nh-t%C3%A0i-519a1828b/)**
+- Portfolio: **[Portfolio](https://johnnysgithubaccount.github.io/Portfolio/)**
 
 ## ⚡ Fun Fact
 I love swimming and skateboarding!
